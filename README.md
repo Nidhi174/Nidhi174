@@ -12,7 +12,8 @@ I'm a passionate software developer with a strong interest in [ web development,
 
 ## 🔧 Skills
 
-- **Programming Languages:** [C++, Python, JavaScript, MySql]
+- **Programming Languages:** [C++, Python, JavaScript]
+- **Databases:** [MySql]
 
 - **Tools & Technologies:** [Git, VsCode,JupyterNotebook,PyCharm,Sublime]
 

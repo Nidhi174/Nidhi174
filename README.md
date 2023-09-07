@@ -7,7 +7,6 @@ I'm a passionate software developer with a strong interest in [ web development,
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nidhi20205106/)
 - 📫 Email: [Your Email Address](nidhigond033@gmail.com)
 - 📚 Currently learning: [Machine Learning ]
-- 💬 Ask me about: [BOTANY]
 - 😄 Pronouns: [She/Her]
 
 ## 🔧 Skills
